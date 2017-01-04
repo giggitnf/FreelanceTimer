@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/02/03 10.00.00.000.506,C:\SorgentiGenerali\Delphi XE3\FreelanceTimer\ZSource\WorkClock.dproj=C:\SorgentiGenerali\Delphi XE3\FreelanceTimer\ZSource\FreelanceTimer.dproj</Transaction>
+    <Transaction>2014/02/03 10.00.00.000.050,=C:\Users\Luigi.DATAPROJECT\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/02/03 10.00.00.000.801,C:\SorgentiGenerali\Delphi XE3\FreelanceTimer\ZSource\Main.dfm=C:\Users\Luigi.DATAPROJECT\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2014/02/03 10.00.00.000.801,C:\SorgentiGenerali\Delphi XE3\FreelanceTimer\ZSource\Main.pas=C:\Users\Luigi.DATAPROJECT\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/02/03 10.00.00.000.847,C:\SorgentiGenerali\Delphi XE3\FreelanceTimer\ZSource\FreelanceTimer.dproj=C:\Users\Luigi.DATAPROJECT\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

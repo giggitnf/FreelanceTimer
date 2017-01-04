@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2014/02/03 10.03.16.050,=C:\Users\Luigi.DATAPROJECT\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/02/03 10.18.38.801,C:\SorgentiGenerali\Delphi XE3\FreelanceTimer\ZSource\Main.dfm=C:\Users\Luigi.DATAPROJECT\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2014/02/03 10.18.38.801,C:\SorgentiGenerali\Delphi XE3\FreelanceTimer\ZSource\Main.pas=C:\Users\Luigi.DATAPROJECT\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/02/03 10.18.46.847,C:\SorgentiGenerali\Delphi XE3\FreelanceTimer\ZSource\FreelanceTimer.dproj=C:\Users\Luigi.DATAPROJECT\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

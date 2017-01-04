@@ -1,0 +1,7 @@
+03/02/2014 11.23.58 - Inizio lavoro
+03/02/2014 11.24.58 - Minuti sessione: 0
+03/02/2014 11.25.02 - Inizio Pausa. Minuti sessione corrente: 1
+03/02/2014 11.25.54 - Fine Pausa
+03/02/2014 11.25.58 - Minuti sessione: 1
+03/02/2014 11.26.58 - Minuti sessione: 1
+03/02/2014 11.26.59 - Fine Lavoro. Minuti sessione corrente: 1
